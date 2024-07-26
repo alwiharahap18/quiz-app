@@ -1,0 +1,30 @@
+.btn-login {
+    margin-top: 10px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.37);
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.box-login {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-form {
+    width: 90%;
+    padding: 25px 20px;
+    background: rgba(126, 204, 172, 0.4);
+    backdrop-filter: blur(14px);
+    border-radius: 6px;
+}

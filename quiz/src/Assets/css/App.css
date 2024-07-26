@@ -1,0 +1,62 @@
+.Login {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(168.55deg, #48C05E 0%, #1293A5 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:  white;
+}
+
+.quiz-form {
+    width: 90%;
+}
+
+header {
+    width: 90%;
+}
+
+.box {
+    width: 90%;
+    padding: 30px 20px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.qbox {
+    width: 100%;
+    padding: 30px 20px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.container-content {
+    width: 90%;
+}
+
+.btn-question {
+    transform: translateY(100px);
+}
+
+a {
+    text-decoration: none;
+    color: #8a8a8a;
+}
+
+.radio-input {
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.quiz-card {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.btn {
+    font-size: 13px !important;
+}
